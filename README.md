@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco Campano
 
-<!--
-**FranCampano/FranCampano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador de Aplicaciones Multiplataforma (DAM)** con experiencia en proyectos **Android, web y de escritorio**.  
+Apasionado por crear soluciones útiles con **Java, Kotlin y Angular**, aplicando buenas prácticas y metodologías ágiles.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías principales
+- **Lenguajes:** Java, Kotlin, TypeScript, SQL, JavaScript, HTML, CSS  
+- **Frameworks y librerías:** Angular, Tailwind CSS, Room, Mockito  
+- **Herramientas:** Android Studio, Git/GitHub, Figma  
+- **Metodologías:** Clean Architecture, MVVM, Agile/Scrum  
+
+---
+
+## 📌 Proyectos destacados
+- 🍴 [App de gestión de restaurante (Java + MySQL)](https://github.com/FranCampano/app-restaurante-java)  
+- 🌐 [Web corporativa (Angular + Tailwind)](https://github.com/FranCampano/web-angular-tailwind)  
+- 📱 [Aplicación Android (Kotlin + MVVM)](https://github.com/FranCampano/app-android-kotlin)  
+
+---
+
+## 🌍 Conecta conmigo
+🔗 [LinkedIn](https://es.linkedin.com/in/francisco-campano-d%C3%ADaz-43b5712aa)  
+🌐 [Portfolio](https://francampanoportafolio.netlify.app/)  
+📧 campanofrancisco@hotmail.com  
