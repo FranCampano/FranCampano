@@ -4,6 +4,20 @@
 Apasionado por crear soluciones útiles con **Java, Kotlin y Angular**, aplicando buenas prácticas y metodologías ágiles.  
 
 ---
+## 📌 Proyectos Destacados
+
+- 🍴 [**App de gestión de restaurante (Java + MySQL)**](https://github.com/FranCampano/RestaStock)  
+  Aplicación de escritorio para la gestión integral de inventario, pedidos y facturación.  
+  Arquitectura en Java + conexión a base de datos MySQL.  
+
+- 🌐 [**Web corporativa (Angular + Tailwind)**](https://ivan-campano-web.netlify.app/)  
+  Página web responsive desarrollada con Angular y Tailwind CSS, optimizada para UX.  
+
+- 📱 [**Aplicación Android (Kotlin + MVVM)**](https://github.com/FranCampano/Proyecto_Iberdrola)  
+  App Android desarrollada en Kotlin, aplicando arquitectura MVVM, Room y pruebas unitarias.  
+
+---
+
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -33,19 +47,7 @@ Apasionado por crear soluciones útiles con **Java, Kotlin y Angular**, aplicand
 
 ---
 
-## 📌 Proyectos Destacados
 
-- 🍴 [**App de gestión de restaurante (Java + MySQL)**](https://github.com/FranCampano/app-restaurante-java)  
-  Aplicación de escritorio para la gestión integral de inventario, pedidos y facturación.  
-  Arquitectura en Java + conexión a base de datos MySQL.  
-
-- 🌐 [**Web corporativa (Angular + Tailwind)**](https://github.com/FranCampano/web-angular-tailwind)  
-  Página web responsive desarrollada con Angular y Tailwind CSS, optimizada para UX.  
-
-- 📱 [**Aplicación Android (Kotlin + MVVM)**](https://github.com/FranCampano/app-android-kotlin)  
-  App Android desarrollada en Kotlin, aplicando arquitectura MVVM, Room y pruebas unitarias.  
-
----
 
 ## 🌍 Conecta conmigo
 
