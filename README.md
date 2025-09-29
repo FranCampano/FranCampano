@@ -6,7 +6,8 @@ Apasionado por crear soluciones útiles con **Java, Kotlin y Angular**, aplicand
 ---
 
 ## 🚀 Tecnologías principales
-- **Lenguajes:** Java, Kotlin, TypeScript, SQL, JavaScript, HTML, CSS  
+- **Lenguajes:** Java, Kotlin, TypeScript, SQL, JavaScript, HTML, CSS
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - **Frameworks y librerías:** Angular, Tailwind CSS, Room, Mockito  
 - **Herramientas:** Android Studio, Git/GitHub, Figma  
 - **Metodologías:** Clean Architecture, MVVM, Agile/Scrum  
